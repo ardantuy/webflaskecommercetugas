@@ -8,7 +8,6 @@ Kalo ga mau pake venv. cukup "pip install <span style="color:green">supabase</sp
 
 # TODO
 * Get data spesifik "GET /products/id" dll
-<br>
 * Business logic kaya:
   - stok ga ada = gabisa checkout
   - ada berhasil co = kurangin stok

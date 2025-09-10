@@ -10,11 +10,11 @@ Kalo ga mau pake venv. cukup "pip install <span style="color:green">supabase</sp
 * Get data spesifik "GET /products/id" dll
 <br>
 * Business logic kaya:
-    - stok ga ada = gabisa checkout
-    - ada berhasil co = kurangin stok
-    - itung total price serverside
-    - clear cart abis co
-    - DLL.....
+    * stok ga ada = gabisa checkout
+    * ada berhasil co = kurangin stok
+    * itung total price serverside
+    * clear cart abis co
+    * DLL.....
 
 
 

@@ -13,6 +13,7 @@ Kalo ga mau pake venv. cukup "pip install <span style="color:green">supabase</sp
   - ada berhasil co = kurangin stok
   - itung total price serverside
   - clear cart abis co
+  - tambahin payment gateway di api
   - DLL.....
 
 

@@ -8,13 +8,15 @@ Kalo ga mau pake venv. cukup "pip install <span style="color:green">supabase</sp
 
 # TODO
 * Get data spesifik "GET /products/id" dll
+<br>
+bikin koneksi api buat frontend
+<br>
 * Business logic kaya:
-  - stok ga ada = gabisa checkout
-  - ada berhasil co = kurangin stok
-  - itung total price serverside
-  - clear cart abis co
-  - tambahin payment gateway di api
-  - DLL.....
+    - stok ga ada = gabisa checkout
+    - ada berhasil co = kurangin stok
+    - itung total price serverside
+    - clear cart abis co
+    - DLL.....
 
 
 
@@ -28,3 +30,6 @@ on [table]
 for select
 <br>
 using (true);
+
+# Known Errors
+email " " doang boleh (harusnya ngga)

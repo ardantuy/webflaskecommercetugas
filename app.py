@@ -4,6 +4,7 @@ from flask_restful import Resource, Api, reqparse, fields, marshal_with, abort
 from decimal import Decimal
 from datetime import datetime
 from payment import create_transaction
+print('test')
 
 def valid_datetime(value):
     try:
